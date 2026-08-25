@@ -378,8 +378,7 @@ jupyter notebook
 **DEEPANRAJ A**  
 **Data Analyst & BI Developer**
 
-- 📧 **Email**: deepanraj.a@outlook.com
-- 💼 **LinkedIn**: [/in/deepanraj-a-data-analyst](https://www.linkedin.com/in/deepanraj-a-data-analyst)
+- 🌐 **Portfolio**: [deeepanbe.github.io](https://deeepanbe.github.io)
 - 🐙 **GitHub**: [@deeepanbe](https://github.com/deeepanbe)
 - 🌐 **Portfolio**: [deeepanbe.github.io](https://deeepanbe.github.io)
 
